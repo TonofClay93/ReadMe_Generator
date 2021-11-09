@@ -6,11 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "TonofClay93",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
     "dotenv": "^8.0.0",
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonofClay93/ReadMe_Generator.git"
+  },
+  "keywords": [
+    "ReadMe",
+    "Generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/TonofClay93/ReadMe_Generator/issues"
+  },
+  "homepage": "https://github.com/TonofClay93/ReadMe_Generator#readme"
 }
