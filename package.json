@@ -1,25 +1,16 @@
 {
-    "name": "readme-generator",
-    "version": "1.0.0",
-    "description": "Porcess to create readme file with node",
-    "main": "index.js",
-    "scripts": {
-        "test": "readme test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/FullStackForce/readme-generator.git"
-    },
-    "keywords": [
-        "readme"
-    ],
-    "author": "Manuel Ramirez",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/FullStackForce/readme-generator/issues"
-    },
-    "homepage": "https://github.com/FullStackForce/readme-generator#readme",
-    "dependencies": {
-        "inquirer": "^7.0.4"
-    }
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "dynamically application that for generates a README.md from a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "inquirer": "^6.3.1"
+  }
 }
